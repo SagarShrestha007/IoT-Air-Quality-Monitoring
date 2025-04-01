@@ -1,0 +1,4 @@
+The IoT-Based Air Quality Monitoring System is a project designed to monitor and analyze air quality in real-time using an ESP32 microcontroller and various environmental sensors. This system measures key air quality parameters, including particulate matter (PM2.5 and PM10), carbon dioxide (CO2), temperature, humidity, and atmospheric pressure.
+
+By leveraging the capabilities of the ESP32, the system can transmit collected data to a web interface or cloud service for visualization and analysis. This project aims to provide insights into air quality conditions, enabling users to make informed decisions about their environment. Additionally, the repository includes a Jupyter Notebook for evaluating machine learning models that predict air quality based on sensor data, enhancing the project's analytical capabilities.
+
